@@ -9,3 +9,4 @@
 6. [Coca-cola](https://www.figma.com/design/BPGpEl2jcl4DuTgaEylsNW/LIMA---coca-cola?node-id=0-1&t=SFhqLkHy4FgBYIcZ-1)
 7. [coca-cola-professor](https://github.com/user-attachments/files/31746756/coca-cola-professor.zip)
 Fernando Leonid
+8. [Monster](https://www.figma.com/design/qIwOSWtwbB2sv31DE1KCpn/Moster-SENAI?node-id=0-1&t=nOf4RAeyr4ahGSiW-1)
